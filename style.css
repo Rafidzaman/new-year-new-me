@@ -83,3 +83,39 @@
    list-style: none;
   
 }
+
+.my-plans{
+    text-align: center;
+    
+   height: 47px;
+   font-weight: 700;
+   font-size: 40px;
+   color: #151414;
+}
+.plans-container{
+    display: flex;
+    width: 1141px;
+   height: 202.96px;
+   margin: 44px 210px 0px 221px;
+}
+.plans-desc{
+    width: 214px;
+    height: 197px;
+    margin-right: 90px;
+}
+.plans-heading{
+    width: 240px;
+    height: 35px;
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+    margin-bottom: 16px;
+}
+.plans-exi{
+    width: 177px;
+   height: 29px;
+   font-weight: 500;
+   font-size: 25px;
+   color: #737272;
+
+}
